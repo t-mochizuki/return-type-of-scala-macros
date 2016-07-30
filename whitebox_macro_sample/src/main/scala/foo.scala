@@ -1,4 +1,4 @@
-package sample_foo
+package sample.foo
 
 import language.experimental.macros
 import scala.reflect.macros.whitebox.Context

@@ -1,4 +1,4 @@
 object Main extends App {
-  import sample_foo._
+  import sample.foo._
   FooExample.foo
 }
